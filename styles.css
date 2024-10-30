@@ -14,3 +14,6 @@ section{
     padding-top: 80px;
     display: flex;
 }
+h1{
+    display: block;
+}
