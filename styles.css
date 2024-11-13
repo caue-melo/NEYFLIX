@@ -1,6 +1,6 @@
 body{
     color: rgb(255, 255, 255);
-    background: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
 }
 header{
     border-bottom:solid 2px rgb(0, 0, 0);
@@ -9,7 +9,7 @@ header{
     color:rgb(24, 6, 104);
 }
 section{
-    background: rgb(34, 83, 189);
+    background: rgb(0, 0, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
